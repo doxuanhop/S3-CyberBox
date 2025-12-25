@@ -205,6 +205,4 @@ This hardware design is provided under:
 
 ---
 
-✅ Document ready for GitHub publishing.
-
 
