@@ -128,35 +128,4 @@ pinMode(0, INPUT_PULLUP);
 
 ---
 
-## 5. Hardware Design Verdict
-
-| Item           | Status |
-| -------------- | ------ |
-| Boot stability | ✅ OK   |
-| GPIO usage     | ✅ Safe |
-| Expandable     | ✅ Yes  |
-| GitHub ready   | ✅ Yes  |
-
----
-
-## 6. Repository Suggestions
-
-Recommended GitHub structure:
-
-```
-CyberBox/
-├─ hardware/
-│  ├─ schematic.pdf
-│  └─ pcb/
-├─ firmware/
-│  ├─ pinmap.h
-│  └─ main.ino
-├─ docs/
-│  └─ hardware.md   <-- this file
-└─ README.md
-```
-
----
-
-
-✅ Document ready for GitHub publishing.
+ publishing.
