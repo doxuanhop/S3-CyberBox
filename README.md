@@ -127,5 +127,3 @@ pinMode(0, INPUT_PULLUP);
 ```
 
 ---
-
- publishing.
