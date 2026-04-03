@@ -107,9 +107,7 @@ Tài liệu này mô tả **pin mapping**, **kiểm tra xung đột GPIO** và *
 
 ---
 
-### 2.5 Battery
+### 2.6 Battery
  #define PIN_BAT  1 
- #define D+ 20 
- #define D- 19
 
  ---
